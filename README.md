@@ -4,5 +4,6 @@ This repository hold some of the matrix manipulation classes developed for the C
 during the 1st semester of the 2019/2020 academic year.
 
 **Authors:**
+
 -Ivan Figueiredo  
 -Lízia Branco
