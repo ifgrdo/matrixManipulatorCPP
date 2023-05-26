@@ -4,8 +4,8 @@
 #include <cmath>
 #include <cstdlib>
 #include <vector>
-#include "../../exercicio41/src/Vec.h"
-#include "../../exercicio41/src/FCtools.h"
+#include "../../P1/src/Vec.h"
+#include "../../P1/src/FCtools.h"
 using namespace std;
 
 class FCmatrix{

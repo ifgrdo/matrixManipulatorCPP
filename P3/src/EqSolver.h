@@ -2,11 +2,11 @@
 #define EqSolver_H
 #include <iostream>
 #include <vector>
-#include "../../exercicio41/src/Vec.h"
-#include "../../exercicio41/src/FCtools.h"
-#include "../../exercicio43/src/FCmatrix.h"
-#include "../../exercicio43/src/FCmatrixFull.h"
-#include "../../exercicio43/src/FCmatrixBanded.h"
+#include "../../P1/src/Vec.h"
+#include "../../P1/src/FCtools.h"
+#include "../../P2/src/FCmatrix.h"
+#include "../../P2/src/FCmatrixFull.h"
+#include "../../P2/src/FCmatrixBanded.h"
 
 using namespace std;
 
