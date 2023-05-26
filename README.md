@@ -5,5 +5,5 @@ during the 1st semester of the 2019/2020 academic year.
 
 **Authors:**
 
--Ivan Figueiredo  
--Lízia Branco
+- Ivan Figueiredo
+- Lízia Branco
